@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "xyz.appmaker.xutaxd",
+      "sha256_cert_fingerprints": ["69:C2:43:9A:3C:01:E0:2C:B4:D6:61:EF:B9:77:5B:73:36:A4:EA:65:49:D7:C3:2E:55:38:5B:42:7B:AD:D7:89"]
+    }
+  }
+]
